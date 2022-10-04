@@ -159,7 +159,7 @@ ul.links {
     min-width: 250px;
     background: #232f3e;
     left: -250px;
-    height: 100%;
+    height: 100vh;
     transition: 0.5s ease-in;
     z-index: 9999;
   }
