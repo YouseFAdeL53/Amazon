@@ -1,0 +1,41 @@
+/* Start Cart-two */
+
+.cart-two>h3 {
+  font-family: 'Cairo', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.cart-two>p {
+    font-size: 18px;
+      font-weight: bold;
+      color: #777;
+}
+
+.cart-two .box {
+  direction: rtl;
+  display: flex;
+  align-items: center;
+}
+
+.cart-two .box .image {}
+
+.cart-two .box .image img {}
+
+.cart-two .box .text .head {
+
+}
+
+.cart-two .box .text .head h2.description {
+      font-size: 17px;
+        font-weight: 600;
+        line-height: 1.7;
+}
+
+.cart-two .box .text .head .span.price {}
+
+.cart-two .box .text .include {}
+
+
+/* End Cart-two */
